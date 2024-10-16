@@ -1,3 +1,5 @@
+Needs to have backend: https://github.com/asgerbirk/Test-Mandatory1 Running and front: https://github.com/Shortytheman/TestingManda1/tree/main/js_fake_info_frontend Running.
+
 Clone the repository
 
 cd into the project folder 
